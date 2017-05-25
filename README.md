@@ -1,0 +1,1 @@
+# GerenciadorDeMem-ria
